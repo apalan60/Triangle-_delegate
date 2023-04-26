@@ -1,0 +1,15 @@
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\bin\Debug\net6.0\星號三角形_delegate_3.exe
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\bin\Debug\net6.0\星號三角形_delegate_3.deps.json
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\bin\Debug\net6.0\星號三角形_delegate_3.runtimeconfig.json
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\bin\Debug\net6.0\星號三角形_delegate_3.dll
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\bin\Debug\net6.0\星號三角形_delegate_3.pdb
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.csproj.AssemblyReference.cache
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.AssemblyInfoInputs.cache
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.AssemblyInfo.cs
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.csproj.CoreCompileInputs.cache
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.dll
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\refint\星號三角形_delegate_3.dll
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.pdb
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\星號三角形_delegate_3.genruntimeconfig.cache
+C:\Users\ispan\source\repos\星號三角形_delegate_2\星號三角形_delegate_3\obj\Debug\net6.0\ref\星號三角形_delegate_3.dll
